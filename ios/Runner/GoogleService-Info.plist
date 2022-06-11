@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>574445271943-kmhtbtrcqd039ggu9oh9eanjcucq9u5n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.574445271943-kmhtbtrcqd039ggu9oh9eanjcucq9u5n</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBVeOZ_H-PrlJdbF4H6K46A9sBIghTHeV0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>574445271943</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.medicineNotifier</string>
+	<key>PROJECT_ID</key>
+	<string>doctor-34f98</string>
+	<key>STORAGE_BUCKET</key>
+	<string>doctor-34f98.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:574445271943:ios:cc6a575178f923c3dbb122</string>
+</dict>
+</plist>
